@@ -1,4 +1,4 @@
-# unity3d_following-zombie
+# unity3d following zombie 가상현실콘텐츠 중간과제
 simple unity3d game
 
 ###	내용
